@@ -167,7 +167,7 @@ composer install
 For issues, feature requests, or contributions:
 
 - **Repository**: [GitHub](https://github.com/mituu-rs/acf-default-value-initializer)
-- **Author**: [mituu](https://github.com/mituu-rs)
+- **Author**: [mituu](https://mituu.dev)
 
 ## License
 

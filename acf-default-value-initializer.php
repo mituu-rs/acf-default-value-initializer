@@ -5,7 +5,7 @@
  * Description: Automatically initialize default values for ACF fields on existing posts and users
  * Version: 1.0.0
  * Author: mituu
- * Author URI: https://github.com/mituu-rs
+ * Author URI: https://mituu.dev
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Requires at least: 6.4
