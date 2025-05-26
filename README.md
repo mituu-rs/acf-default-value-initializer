@@ -1,4 +1,9 @@
 # ACF Default Value Initializer
+[![Latest Stable Version](https://poser.pugx.org/mituu/acf-default-value-initializer/v/stable)](https://packagist.org/packages/mituu/acf-default-value-initializer)
+[![Total Downloads](https://poser.pugx.org/mituu/acf-default-value-initializer/downloads)](https://packagist.org/packages/mituu/acf-default-value-initializer)
+[![License](https://poser.pugx.org/mituu/acf-default-value-initializer/license)](https://packagist.org/packages/mituu/acf-default-value-initializer)
+[![PHP Version Require](https://poser.pugx.org/mituu/acf-default-value-initializer/require/php)](https://packagist.org/packages/mituu/acf-default-value-initializer)
+[![Monthly Downloads](https://poser.pugx.org/mituu/acf-default-value-initializer/d/monthly)](https://packagist.org/packages/mituu/acf-default-value-initializer)
 
 A WordPress plugin that automatically initializes default values for Advanced Custom Fields (ACF) on existing posts and users.
 
@@ -24,16 +29,17 @@ When you add new ACF fields with default values to existing content, WordPress t
 
 ## Installation
 
-1. Download or clone this repository
-2. Upload the plugin folder to `/wp-content/plugins/`
-3. Activate the plugin through the 'Plugins' menu in WordPress
-4. Ensure ACF is installed and activated
+### Via Composer
 
-### Composer Installation
+```bash
+composer require mituu/acf-default-value-initializer
+```
 
-Comming soon.
+### Manual Installation
 
-## Usage
+1. Download the plugin
+2. Upload to `/wp-content/plugins/acf-default-value-initializer/`
+3. Activate through the WordPress admin
 
 ### Enabling Default Value Initialization
 
